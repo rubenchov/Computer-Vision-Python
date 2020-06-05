@@ -1,2 +1,2 @@
 # Computer-Vision-Python
-Examples of Computer Vision by using Python
+Examples of Computer Vision by using Python.
